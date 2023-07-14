@@ -1,0 +1,6 @@
+参照shader：StylizedLit
+模型：原神-可情
+Base：顶点着色器 片元着色器
+Data：数据传输 参数传输
+FunctionCore：封装函数
+KeQIng_OutLine：描边shader
